@@ -15,4 +15,4 @@ def get_data(place, forcast=None,):
 
 
 if __name__ == "__main__":
-    print(get_data(place="tokyo", forcast=1,))
+    print(get_data(place="tokyo", forcast=2,))
